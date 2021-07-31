@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="jacksonStudy.user.UserGetterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-14T17:45:25" hostname="Татьяна-ПК" time="0.217">
-  <properties/>
-  <testcase name="testUserGetter" classname="jacksonStudy.user.UserGetterTest" time="0.217"/>
-  <system-out><![CDATA[{"id":2,"name":"Nikola"}
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
